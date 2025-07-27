@@ -2,7 +2,6 @@
 
 Predict laptop prices based on specifications using a **machine learning model** served via a **Dockerized Streamlit app**.  
 No Python setup. No Jupyter nonsense. Just run the container and launch the UI in your browser — like a boss.
-
 ---
 
 ## 📌 Table of Contents
