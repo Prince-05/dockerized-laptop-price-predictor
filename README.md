@@ -1,6 +1,7 @@
-# 💻 Laptop Price Predictor – Streamlit App 🧠📈
+# 🐳 Laptop Price Predictor — Fully Dockerized Streamlit App 💻💰
 
-An interactive **Streamlit web app** that predicts laptop prices based on hardware specifications. Under the hood? A powerful Random Forest model tuned for accuracy. On the outside? A clean UI served from Docker — no setup needed, just pull and run.
+Predict laptop prices based on specifications using a **machine learning model** served via a **Dockerized Streamlit app**.  
+No Python setup. No Jupyter nonsense. Just run the container and launch the UI in your browser — like a boss.
 
 ---
 
